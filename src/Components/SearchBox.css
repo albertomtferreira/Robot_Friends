@@ -8,11 +8,11 @@
 label{
   font-family: 'SEGA LOGO FONT';
   font-weight: 75;
-  color: #0ccac4;
+  color: rgb(0, 0, 0);
 }
 
 input{
     font-family: 'SEGA LOGO FONT';
     font-weight: 50;
-    color: #0ccac4;
+    color: #fff;
   }
