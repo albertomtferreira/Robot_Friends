@@ -4,7 +4,7 @@ import './SearchBox.css';
 const SearchBox = ({searchField, searchChange}) => {
     return(
         <div>
-            <label className= 'tc'>SearchBox:
+            <label>
                 <input 
                     className='pa3 ba b--green bg-lightest-blue'
                     type='search' 
